@@ -1,6 +1,6 @@
 # 네트워크 관련 공부
 
-## 컴퓨터 네트워크
+## 컴퓨터 네트워크 (22-2 수강)
 ### [내용 정리](./computer_network/study/computernetworks.md)
 ### 과제 정리
 
@@ -44,3 +44,23 @@
 
 - HW 5
     - TCP fields 중 congestion control에 활용되는 Nonce Sum(NS) 필드의 RFC 문서를 직접 읽으며 의미와 동작 원리를 이해함
+
+## IoT 실습
+### 실습 정리
+- Lab 1
+    - Wireshark를 이용한 트래픽 분석
+
+- Lab 2
+    - 패킷 설계 및 에코 구현
+
+- Lab 3
+    - epoll 기반 chat 프로그램 구현
+
+- Lab 4
+    - Object serialization을 위한 bitstream 구현
+
+- Lab 5
+    - Boost.Asio 기반 network programming
+        - DNS 프로그램
+        - FizzBuzz 프로그램
+        - 트래픽 분석 프로그램 설계
